@@ -1,0 +1,25 @@
+{
+  "name": "tookantmx",
+  "version": "1.0.0",
+  "description": "Tmx Courier App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonysdl/Tmx_Courier_App.git"
+  },
+  "keywords": [
+    "Courier_App"
+  ],
+  "author": "Antony Wakaba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonysdl/Tmx_Courier_App/issues"
+  },
+  "homepage": "https://github.com/antonysdl/Tmx_Courier_App#readme",
+  "dependencies": {
+    "tookan-api": "^1.0.4"
+  }
+}
